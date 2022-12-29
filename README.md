@@ -1,6 +1,6 @@
 <b>👋 Hi, I’m @ScriptKitKat </b>
-- 👀 I’m interested in... Computer science: Android development, Machine learning (data science), cryptography, AI-generated art, and so much more!
-- 🌱 I’m currently learning Android development
+- 👀 I’m interested in ... Computer science: Android development, Machine learning (data science), cryptography, AI-generated art, and so much more!
+- 🌱 I’m currently learning ... Android development
 - 💞️ I’m looking to collaborate on ... Android Studios
 - 📫 How to reach me ... <a href="https://www.youtube.com/channel/UCm4cTSqghDNZFyOxBcwHwZA">YouTube</a>
 - 🤔 I’m looking for help with ... basically everything lol 
